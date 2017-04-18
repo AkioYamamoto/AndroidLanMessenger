@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\project\\MyAndroid\\android-messenger1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message.xml",
+        "source": "D:\\project\\MyAndroid\\android-messenger1\\app\\src\\main\\res\\layout\\message.xml"
+    },
+    {
+        "merged": "D:\\project\\MyAndroid\\android-messenger1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "D:\\project\\MyAndroid\\android-messenger1\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\project\\MyAndroid\\android-messenger1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_messenger.xml",
+        "source": "D:\\project\\MyAndroid\\android-messenger1\\app\\src\\main\\res\\layout\\activity_messenger.xml"
+    }
+]

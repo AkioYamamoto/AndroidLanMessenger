@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\project\\MyAndroid\\android-messenger1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\splash.xml",
+        "source": "D:\\project\\MyAndroid\\android-messenger1\\app\\src\\main\\res\\menu\\splash.xml"
+    },
+    {
+        "merged": "D:\\project\\MyAndroid\\android-messenger1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\messenger.xml",
+        "source": "D:\\project\\MyAndroid\\android-messenger1\\app\\src\\main\\res\\menu\\messenger.xml"
+    }
+]

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\project\MyAndroid\android-messenger1\app\libs\unclouded_v1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="88b86088714bc22bae243c18157d209de9715858">
+        <dex dex="D:\project\MyAndroid\android-messenger1\app\build\intermediates\pre-dexed\debug\unclouded_v1_da67894bb97a9425896c94c70083dc8de67d8825.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dragon\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\project\MyAndroid\android-messenger1\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_bfe99c4e7fcbbd105e747dfc3d97d76caa03b7ae.jar" />
+    </item>
+
+</items>
